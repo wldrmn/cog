@@ -1,0 +1,1 @@
+   var cog=[If,you,change,direction,the,backlash,will,propagate,through,attitude, ]; 
